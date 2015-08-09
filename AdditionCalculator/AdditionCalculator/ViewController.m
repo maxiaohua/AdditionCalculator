@@ -22,7 +22,6 @@
 -(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
 {
     NSLog(@"hello world");
-    NSLog(@"aaa");
 
 }
 
