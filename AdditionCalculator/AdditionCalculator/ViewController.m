@@ -19,13 +19,6 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
--(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
-{
-    NSLog(@"hello world");
-    NSLog(@"aaa");
-    NSLog(@"bbb");
-
-}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
